@@ -1,0 +1,12 @@
+{
+  "requestId": "test_123",
+  "userId": "user_456",
+  "deviceType": "mobile",
+  "interests": ["sports", "tech"],
+  "context": {
+    "app": "news",
+    "placement": "banner"
+  },
+  "floorPrice": 1.0,
+  "timestamp": 1704067200000
+}
