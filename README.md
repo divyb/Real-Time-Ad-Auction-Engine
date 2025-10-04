@@ -1,6 +1,4 @@
 
-**README.md:**
-```markdown
 # Real-Time Ad Auction Engine
 
 A production-grade ad auction system demonstrating low-latency performance, privacy-preserving techniques, and scalable architecture.
