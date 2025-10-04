@@ -1,4 +1,3 @@
-### Step 13: README
 
 **README.md:**
 ```markdown
